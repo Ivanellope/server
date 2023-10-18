@@ -1,0 +1,17 @@
+{
+    "user1": {  
+        "Company Name": "Nintendo",
+        "Name of Employees": ["Izuku", "Bakugo", "Uraraka", "All Might", "Mark"],
+        "Positions":["CEO", "Secretary", "Asst Secretary", "Treasurer", "Audithor"],
+        "Location":"Kyoto, Japan",
+        "id":1
+    },
+  
+    "user2":  {
+        "Company Name": "Starks",
+        "Name of Employees":["Iron Man", "Captain America", "Spider-Man", "Black Widow", "Thor"],
+        "Positions":["Billionaire", "Captain", "Side kick", "Secretary", "Strongest Avenger"],
+        "Location":"United States of America",
+        "id":2
+    }
+}
